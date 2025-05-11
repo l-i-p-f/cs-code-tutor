@@ -22,8 +22,12 @@ ps: 1) 紧急需求不接 2) 一般周末或国内节假日有时间
 - Mail: `lipf702@gmail.com`
 
 ## 已交付项目
-已交付作业列表，现成代码，欢迎咨询
 
-| ID  | Assignment |
-|---|---|
-| 1   | [CS 7638: AI for Robotics - Indiana Drones Project (SLAM)](./CS_7638/README.md) |
+| ID  | Assignment                                                                      | Description      |
+|---|---------------------------------------------------------------------------------|------------------|
+| 1   | [CS 7638: AI for Robotics - Indiana Drones Project (SLAM)](./CS_7638/README.md) ||
+| 2   | [Vampire Hunting](./vampire_hunting/README.md)                                  ||
+| 3   | [INFSCI 2595 SEC1050](./INFSCI_2595/README.md)                                  ||
+| 4   | [Snack](./snack/README.md)                                                      | C++实现的贪吃蛇游戏，有UI，有音效 |
+| 5   | [Sparse Ruler](./sparse_ruler/README.md)                                        ||
+| 6   | [Rules](./rules/README.md)                                                      ||
