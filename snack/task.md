@@ -40,7 +40,7 @@
 ## 任务完成情况
 1. 游戏开始界面
 - 按 Enter 键开始游戏
-![img.png](../../work/241205_snack/game_start.png)
+![img.png](game_start.png)
 
 2. 游戏运行界面
 - 使用 上下左右 控制蛇的移动
@@ -51,8 +51,8 @@
 - 游戏界面窗口四周是墙，碰撞会结束游戏
 - 触碰蛇的身体也会导致游戏结束
 - 游戏过程有三种音效：背景音乐、吃食物音效、碰撞音效
-![img.png](../../work/241205_snack/game_running.png)
+![img.png](game_running.png)
 
 3. 游戏结束界面
 - 显示分数，按 Enter 键重新开始游戏
-![img.png](../../work/241205_snack/game_over.png)
+![img.png](game_over.png)
