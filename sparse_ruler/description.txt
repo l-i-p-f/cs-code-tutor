@@ -1,0 +1,15 @@
+•​Your solution should consist of one single Python file, which should generate any graphs, etc., when run. (Do not try to submit text or graphic files separately.)
+
+•​Make sure that your file runs, and takes at most 10 seconds to finish. (If you want to perform longer experiments, you can include this code and discussion of your findings within comments.)
+
+•​You should include discussion and commentary as comments within your file (not within print statements).
+
+Each miniproject consists of three parts. Each part is worth one third of the total available marks. (This should give you guidance as to how much work is expected in Part 3.)
+
+•​In each case, Part 3 is much more open-ended than the other two parts, and is your chance to demonstrate independent initiative and creativity.
+
+•​Make sure that you explain what experiments you have done and what your findings are, as comments within your file. Creativity, mathematical understanding, and clarity of communication will contribute to your mark as well as coding proficiency.
+
+•​You may want to include functions that you have written earlier in the course. If so, please include them within your .py file (that is, don’t import them from some other file, because we won’t have that file!). Feel free to import standard libraries that we’ve used, such as math, time, etc..
+
+•​During your investigation in these projects, you might investigate the topics online. This is fine. You are advised not to use code written by other people, as this will count against you for individual creativity and initiative. However, if you do take a section of code from a source online, it is essential that you reference this, by giving the web address in a comment in your file. Failure to declare code written by other people will be consi
